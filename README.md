@@ -10,3 +10,5 @@ O objetivo é que o projeto explore a área de Dados de uma forma expansiva e qu
 - Investigar relação de dados operacionais e avaliações dos clientes
 - Entregar métrica de satisfação para insights de melhorias a serem feitas.
 - Criar base sólida para análises preditivas e NLP.
+
+![Project Model Canvas do projeto](assets/cx_project_model_canvas.png)
